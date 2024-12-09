@@ -1,0 +1,40 @@
+body {
+    background-image: url('');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+    background-size: cover;
+
+}
+* {
+    font-family: "Permanent Marker", cursive;
+}
+
+h1 {
+color:rgb(17, 1, 1)
+}
+
+p {
+    color:rgb(10, 4, 4)
+}
+table {
+border-collapse: collapse;
+}
+
+th {
+
+    background-color: rgb(255, 255, 255);
+}
+
+th,
+td {
+border: 1px solid rgb(0, 0, 0);
+text-align: left;
+padding: 8px;
+}
+a {
+    color: rgb(0, 0, 0);
+}
