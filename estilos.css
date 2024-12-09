@@ -1,5 +1,5 @@
 body {
-    background-image: url('');
+    background-image: url('https://assets.goal.com/images/v3/blt66a94a2dab47b56d/getty_arena_corinthians.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,11 +14,11 @@ body {
 }
 
 h1 {
-color:rgb(17, 1, 1)
+color:rgb(255, 255, 255)
 }
 
 p {
-    color:rgb(10, 4, 4)
+    color:rgb(255, 255, 255)
 }
 table {
 border-collapse: collapse;
@@ -26,15 +26,16 @@ border-collapse: collapse;
 
 th {
 
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 th,
 td {
-border: 1px solid rgb(0, 0, 0);
+border: 1px solid rgb(255, 255, 255);
 text-align: left;
 padding: 8px;
+color: rgb(255, 255, 255);
 }
 a {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
