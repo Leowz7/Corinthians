@@ -1,0 +1,16 @@
+body {
+
+max-width: 1700px;
+margin: 50px auto;
+background-color:#ffffff;
+padding: 20px;
+border-radius: 50px;
+box-shadow: 0 0 30px rgb(0, 0, 0);
+    
+
+
+}
+a {
+
+color: black;
+}
